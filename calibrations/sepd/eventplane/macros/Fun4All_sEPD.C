@@ -29,6 +29,7 @@
 #include <TSystem.h>
 
 // c++ includes --
+#include <fstream>
 #include <iostream>
 #include <string>
 
